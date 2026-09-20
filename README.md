@@ -16,6 +16,15 @@ every step signed off, every claim cited back to a source document.
 - **[Grounded](https://codelessops.com)**: verifiable AI for finance teams.
   Answers with citations you can check, running on your documents.
 
+## Anaplan tooling
+
+Small tools from fifteen years of building planning models. Each one answers a question Anaplan itself can't.
+
+- [anaplan-diff](https://github.com/klameer/anaplan-diff): what changed between two builds? Modules and formulas added, removed and changed, from two line item exports.
+- [anaplan-impact-analysis](https://github.com/klameer/anaplan-impact-analysis): what breaks if I change this? Click a line item and see the whole downstream chain. One HTML file, runs in the browser.
+- [anaplan-api-starter](https://github.com/klameer/anaplan-api-starter): one Python file for the whole API loop. Auth, names to IDs, upload, run, poll, download to pandas.
+- [Anaplan-Clock](https://github.com/klameer/Anaplan-Clock): gives the model a current date and time, so formulas can stamp actions and flag stale data.
+
 ## Elsewhere
 
 - [codelessops.com](https://codelessops.com), where I write about AI in
