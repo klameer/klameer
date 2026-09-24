@@ -21,7 +21,7 @@ Everything else in this section sits on top of it.
 | [anaplan&#8209;diff](https://github.com/klameer/anaplan-diff) | What changed between two builds? Modules and formulas added, removed and changed, from two line item exports. |
 | [anaplan&#8209;impact&#8209;analysis](https://github.com/klameer/anaplan-impact-analysis) | What breaks if I change this? Click a line item and see the downstream chain. One HTML file, runs in the browser. |
 | [anaplan&#8209;api&#8209;starter](https://github.com/klameer/anaplan-api-starter) | The whole v2 API loop in one Python file. Auth, names to IDs, upload, run, poll, download to pandas. |
-| [Anaplan-Clock](https://github.com/klameer/Anaplan-Clock) | Gives a model the current date and time, so formulas can stamp actions and flag stale data. |
+| [Anaplan&#8209;Clock](https://github.com/klameer/Anaplan-Clock) | Gives a model the current date and time, so formulas can stamp actions and flag stale data. |
 
 `anaplan-estate` ships with a fictional estate you can run end to end and a
 note listing what was planted in it and what the tool finds. Neither repo
