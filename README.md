@@ -16,11 +16,11 @@ Everything else in this section sits on top of it.
 
 | Repo | What it answers |
 | --- | --- |
-| **[anaplan-grammar](https://github.com/klameer/anaplan-grammar)** | A formal grammar and parser for Anaplan formulas, reverse-engineered from Anapedia and 13,214 production formulas (all 13,214 parse and round-trip). Dependency graph checked against Anaplan's own Referenced By column, plus diff, lint and a health report. `pip install`, zero dependencies. |
-| **[anaplan-estate](https://github.com/klameer/anaplan-estate)** | Find what to improve in Anaplan and see what a change could affect. Point it at a folder of exports and get one offline HTML report: action plan, change-impact explorer, evidence. Try it without installing anything at [anaplan-estate.codelessops.com](https://anaplan-estate.codelessops.com). |
-| [anaplan-diff](https://github.com/klameer/anaplan-diff) | What changed between two builds? Modules and formulas added, removed and changed, from two line item exports. |
-| [anaplan-impact-analysis](https://github.com/klameer/anaplan-impact-analysis) | What breaks if I change this? Click a line item and see the downstream chain. One HTML file, runs in the browser. |
-| [anaplan-api-starter](https://github.com/klameer/anaplan-api-starter) | The whole v2 API loop in one Python file. Auth, names to IDs, upload, run, poll, download to pandas. |
+| **[anaplan&#8209;grammar](https://github.com/klameer/anaplan-grammar)** | A formal grammar and parser for Anaplan formulas, reverse-engineered from Anapedia and 13,214 production formulas (all 13,214 parse and round-trip). Dependency graph checked against Anaplan's own Referenced By column, plus diff, lint and a health report. `pip install`, zero dependencies. |
+| **[anaplan&#8209;estate](https://github.com/klameer/anaplan-estate)** | Find what to improve in Anaplan and see what a change could affect. Point it at a folder of exports and get one offline HTML report: action plan, change-impact explorer, evidence. Try it without installing anything at [anaplan-estate.codelessops.com](https://anaplan-estate.codelessops.com). |
+| [anaplan&#8209;diff](https://github.com/klameer/anaplan-diff) | What changed between two builds? Modules and formulas added, removed and changed, from two line item exports. |
+| [anaplan&#8209;impact&#8209;analysis](https://github.com/klameer/anaplan-impact-analysis) | What breaks if I change this? Click a line item and see the downstream chain. One HTML file, runs in the browser. |
+| [anaplan&#8209;api&#8209;starter](https://github.com/klameer/anaplan-api-starter) | The whole v2 API loop in one Python file. Auth, names to IDs, upload, run, poll, download to pandas. |
 | [Anaplan-Clock](https://github.com/klameer/Anaplan-Clock) | Gives a model the current date and time, so formulas can stamp actions and flag stale data. |
 
 `anaplan-estate` ships with a fictional estate you can run end to end and a
