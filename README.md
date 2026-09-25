@@ -10,6 +10,27 @@ architecture and hands-on delivery. The projects below show the work:
 working examples, implementation choices, tests and the limits of what has
 been validated.
 
+## Experience behind the projects
+
+My work spans finance operations, planning architecture and implementation
+across biotech, pharma and other reporting-heavy organisations.
+
+- **Close and forecasting:** at a listed clinical-stage biotech, I built
+  the Anaplan planning platform and automated its data loads. The mechanical
+  close fell from 12 working days to under 8 hours, and reforecasting from
+  a week to a day. Here, mechanical close means ledger close through to
+  consolidated actuals ready for review. My
+  [delivery case study](https://codelessops.com/posts/twelve-days-to-eight-hours/)
+  explains the scope, integrations and handover.
+- **Professional background:** CIMA-qualified Management Accountant,
+  Master Anaplanner and MSc in Information Technology from Keele University.
+  [Background and experience](https://codelessops.com/about/).
+- **Other perspectives:** Anaplan featured my career and approach in
+  [Meet Solutions Architect Karim Lameer](https://www.linkedin.com/posts/anaplan_meet-solutions-architect-karim-lameer-activity-6968948608922501121-5uJv).
+  [LinkedIn recommendations](https://www.linkedin.com/in/karimlameer/)
+  from colleagues describe my Anaplan delivery, financial understanding
+  and ability to become productive quickly in a team.
+
 ## Start with these projects
 
 | Project | Problem it addresses | Evidence to inspect |
