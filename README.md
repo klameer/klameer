@@ -59,12 +59,11 @@ board, an auditor or a regulator. Start with these three:
 Latest posts, updated automatically:
 
 <!-- BLOG-POST-LIST:START -->
-- 23 Oct 2026 · [What Anthropic's finance plugin leaves to you](https://codelessops.com/posts/anthropic-finance-plugin/)
+- 23 Oct 2026 · [What Anthropic&#39;s finance plugin leaves to you](https://codelessops.com/posts/anthropic-finance-plugin/)
 - 19 Oct 2026 · [The seams map](https://codelessops.com/posts/the-seams-map/)
-- 7 Oct 2026 · [Continuous close for FP&A](https://codelessops.com/posts/continuous-close-fpa/)
+- 7 Oct 2026 · [Continuous close for FP&amp;A](https://codelessops.com/posts/continuous-close-fpa/)
 - 7 Oct 2026 · [What a continuous close is, and why to aim at zero days](https://codelessops.com/posts/continuous-close-fpa/what-is-it/)
-- 7 Oct 2026 · [The use case: a contract signed on the 6th, on the forecast by the 8th](https://codelessops.com/posts/continuous-close-fpa/the-use-case/)
-<!-- BLOG-POST-LIST:END -->
+- 7 Oct 2026 · [The use case: a contract signed on the 6th, on the forecast by the 8th](https://codelessops.com/posts/continuous-close-fpa/the-use-case/)<!-- BLOG-POST-LIST:END -->
 
 [All posts](https://codelessops.com/posts/) · [The public record](https://codelessops.com/projects/), a dated feed of everything shipped.
 
